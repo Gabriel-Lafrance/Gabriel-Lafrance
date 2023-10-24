@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Lafrance</h1>
+<h1 align="center"><a href="https://sitedemo-seq9g.ondigitalocean.app">Hi 👋, I'm Gabriel Lafrance</a></h1>
 <h3 align="center">A passionate frontend developer from Rimouski, Qc,CA</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.gabriellafrance.com](https://www.gabriellafrance.com)
